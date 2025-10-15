@@ -1,4 +1,4 @@
 Hello,
-willkomme to my first real JS-game.
+welcome to my first real JS-game.
 Run the game and have fun!
 
